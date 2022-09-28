@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu mundo! 👋
 
 
-- 🔭 Hoje atuo com foco em java e DEVOPS
+- 🔭 Hoje atuo com foco em Java e DEVOPS
 - 🌱 Estudante de Gestão em Tecnologia da Informacao
 - 📫 Contate-me no email: uallace.gomes.silva@gmail.com
 - 😄 Pronouns: ele/dele
