@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/Uallace">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uallace&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uallace&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=uallace&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uallace&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ### Ferramentas já utilizadas para aprendizado e desenvolvimento:
